@@ -1,4 +1,4 @@
-# Bonjour, je suis Antoine Théologien 👋
+# Bonjour, je suis Antoine Théologien !
 
 **ML Engineer / Data Scientist** · Diplômé du Master MIND (Machine Learning, IA et Données) de Sorbonne Université
 
@@ -10,7 +10,7 @@ Je conçois des outils de machine learning pensés pour la production : surveill
 
 ---
 
-## 🚀 Projets mis en avant
+##  Projets mis en avant
 
 ### 🎬 Moodvie · *en cours*
 `Python` `FastAPI`
@@ -33,6 +33,4 @@ Conception d'un outil de détection de dérive pour un modèle de recommandation
 ---
 
 ## 📈 Statistiques GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=antothl&show_icons=true&hide_border=true)
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=antothl&layout=compact&hide_border=true)
